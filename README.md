@@ -52,10 +52,10 @@
         <div>
             <h2 align="center"> ・ 📇 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐌𝐚𝐤𝐞𝐭𝐡 𝐌𝐚𝐧 📇 ・</h2>
             <br>
-            <div>
-                <img width=350
-                    src="https://animesher.com/orig/1/132/1321/13214/animesher.com_orihara-izaya-durarara-quote-1321439.gif">
-                <p>
+            <div align="center">
+            <img width=350
+                    src="https://images6.fanpop.com/image/photos/41100000/-izaya-orihara-durarara-41157601-500-281.gif">
+                <p align="center">
                     <a href="http://catyousha.github.io">
                         Jump Into My Portfolio
                     </a>
