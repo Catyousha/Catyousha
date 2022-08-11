@@ -82,6 +82,7 @@
                         <li>Had experience on developing <b>Android Kotlin</b> application at <b>Bangkit Academy
                                 2022</b> program.</li>
                         <li>Has proven capabilities of slicing <b>Figma</b> design into <b>mobile application</b>.</li>
+                        <li>I'm an <b>Associate Android Developer</b></li>
                     </div>
                 </div>
                 <br>
