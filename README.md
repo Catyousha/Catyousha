@@ -17,8 +17,8 @@
             <h2 align="center"> 💻 ・ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ・ 💻 </h2>
             <br>
             <h2>
-                𝐀 𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐥𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐦𝐨𝐛𝐢𝐥𝐞
-                𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟏𝟗
+                L𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐫 𝐢𝐧 𝐰𝐞𝐛 and 𝐦𝐨𝐛𝐢𝐥𝐞
+                𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐬𝐢𝐧𝐜𝐞 𝟐𝟎𝟏𝟗
             </h2>
             <br>
             <div align="center">
@@ -32,16 +32,16 @@
                         <b>Also Known As:</b> Catyousha, Tenessine, Jaka
                     </li>
                     <li>
-                        <b>Gender:</b> Male
+                        <b>Gender:</b> Boeing AH-64 Apache
                     </li>
                     <li>
-                        <b>Pronoun:</b> His Majesty
+                        <b>Pronoun:</b> (Your / His) Majesty
                     </li>
                     <li>
-                        <b>Occupation:</b> Mood-Driven Informatics Engineering Student, Shitpost Enthusiast
+                        <b>Occupation:</b> Shitpost Enthusiast
                     </li>
                     <li>
-                        <b>Interest:</b> Mobile Development, Data Science, Machine Learning
+                        <b>Current Interest:</b> Flutter & https://killedbygoogle.com/
                     </li>
                 </div>
             </div>
@@ -77,11 +77,10 @@
                     </p>
                     <br>
                     <div align="left">
-                        <li>Currently focusing  on <b>Flutter</b> with <b>BLoC Cubit</b> as state management, and <b>Clean
-                                Architecture</b> as project architecture.</li>
+                        <li>Currently focusing  on <b>Flutter</b> with <b>Riverpod</b> as state management.</li>
                         <li>Had experience on developing <b>Android Kotlin</b> application at <b>Bangkit Academy
                                 2022</b> program.</li>
-                        <li>Has proven capabilities of slicing <b>Figma</b> design into <b>mobile application</b>.</li>
+                        <li>Had proven capabilities of slicing <b>Figma</b> design into <b>mobile application</b>.</li>
                         <li>I'm an <b>Associate Android Developer</b>.</li>
                     </div>
                 </div>
