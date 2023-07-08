@@ -5,7 +5,7 @@
         <div align="center">
             <img src="https://c.tenor.com/JkIYJypBtfAAAAAC/izaya-durarara.gif" />
             <br>
-            <p>I wonder why you came here...</p>
+            <p>I wonder why are you coming here...</p>
         </div>
         <br>
         <hr>
@@ -80,7 +80,7 @@
                         <li>Currently focusing  on <b>Flutter</b> with <b>Riverpod</b> as state management.</li>
                         <li>Had experience on developing <b>Android Kotlin</b> application at <b>Bangkit Academy
                                 2022</b> program.</li>
-                        <li>Had proven capabilities of slicing <b>Figma</b> design into <b>mobile application</b>.</li>
+                        <li>Had proven capabilities of develop <b>mobile application</b>.</li>
                         <li>I'm an <b>Associate Android Developer</b>.</li>
                     </div>
                 </div>
