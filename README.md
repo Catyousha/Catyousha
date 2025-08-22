@@ -100,10 +100,6 @@
                 <a href="https://twitter.com/catyousha_" target="_blank"><img
                         src="https://img.shields.io/badge/catyousha_%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
                 </a>
-                <a href="https://discordapp.com/users/613747574381215789">
-                    <img
-                        src="https://img.shields.io/badge/Tenessine-5272%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-                </a>
             </p>
             <p align="center"><a href="https://www.linkedin.com/in/jaka-ahmad/" target="_blank"><img
                         src="https://img.shields.io/badge/Jaka%20Asa%20Baldan%20Ahmad%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
